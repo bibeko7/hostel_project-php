@@ -98,7 +98,7 @@ http://localhost/hostel_project-php/
 ## ⚠️ Important Notes
 
 * Do not upload sensitive files like `.env`
-* Make sure XAMPP/WAMP server is running
+* Make sure XAMPP/WAMP server is running.
 * Database must be properly connected
 
 ---
